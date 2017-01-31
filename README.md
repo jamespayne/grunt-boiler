@@ -27,9 +27,15 @@ A simple Grunt boilerplate which includes the following:
 
 cd into your project folder and just run:
 
-   npm install
+    npm install
    
 Will automatically install grunt, bower and their dependencies.
+
+then do:
+
+    grunt
+    
+This will start the livereload server and automatically create a img folder to put your images in.
 
 
 
