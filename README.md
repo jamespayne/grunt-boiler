@@ -13,7 +13,6 @@ A simple Grunt boilerplate which includes the following:
     * grunt-contrib-watch
     * grunt-wiredep
     * connect-livereload
-    * bower-css
     * bower
     * jquery (auto installed with bootstrap)
 
@@ -21,7 +20,7 @@ A simple Grunt boilerplate which includes the following:
 
 * Connect server with livereload
 * Sass
-* Support to watch, html, css, images (png, gif and jpg)
+* Support to watch, html, css, js, images (png, gif and jpg)
 
 ## Install
 
