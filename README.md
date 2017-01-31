@@ -22,7 +22,7 @@ A simple Grunt boilerplate which includes the following:
 * Sass
 * Support to watch, html, css, js, images (png, gif and jpg)
 
-## Install
+# Install
 
 ### Requirements
 
