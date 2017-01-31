@@ -1,4 +1,4 @@
-# grunt-boiler
+# grunt-starter
 
 A simple Grunt boilerplate which includes the following:
 
