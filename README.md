@@ -38,7 +38,7 @@ then do:
 
     grunt
     
-This will start the livereload server and automatically create a img folder to put your images in.
+This will create a img folder to put your images in, start the livereload server and open the index.html file in your default browser.
 
 
 
