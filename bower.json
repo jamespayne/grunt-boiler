@@ -1,0 +1,21 @@
+{
+  "name": "grunt-boiler",
+  "description": "A simple grunt boilerplate for with basic html, sass, bootstrap and connect server",
+  "main": "",
+  "authors": [
+    "James Payne <jpayne001@me.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-css": "^3.3.6"
+  }
+}
