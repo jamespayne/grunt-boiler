@@ -24,6 +24,10 @@ A simple Grunt boilerplate which includes the following:
 
 ## Install
 
+### Requirements
+
+[Node.js](https://nodejs.org/), [npm](https://www.npmjs.com/)
+
 cd into your project folder and just run:
 
     npm install
